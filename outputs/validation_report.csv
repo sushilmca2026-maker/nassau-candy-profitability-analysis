@@ -1,0 +1,7 @@
+Check,Passed,Evidence
+Required columns present,True,All required source columns were found.
+Rows retained after validation,True,"10,194 rows available for analysis."
+Sales positive,True,No zero or negative sales remain.
+Units positive,True,"No missing, zero, or negative units remain."
+No missing values,True,0 missing values after cleaning.
+Factory mapping coverage,True,100.0% of rows mapped.

@@ -1,0 +1,6 @@
+raw_rows: 10194
+clean_rows: 10194
+removed_rows: 0
+duplicate_rows: 0
+invalid_rows: 0
+missing_values_after_cleaning: 0
