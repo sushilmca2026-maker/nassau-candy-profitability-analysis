@@ -86,6 +86,12 @@ The Nassau Candy Distributor file shows a high-margin portfolio whose economic p
 
 ## References
 
+Streamlit Documentation — Streamlit, “Build and deploy data apps,” Streamlit Documentation.
+Pandas Documentation — Pandas, “User Guide,” Pandas Documentation.
+Python Documentation — Python Software Foundation, “Python Documentation.”
+Plotly Documentation — Plotly, “Python Graphing Library Documentation.”
+Nassau Candy Dataset — Dataset used for product sales, cost, profitability, and margin analysis.
+
 [1]: https://pandas.pydata.org/docs/ "Pandas documentation"
 
 [2]: https://plotly.com/python/ "Plotly Python documentation"
